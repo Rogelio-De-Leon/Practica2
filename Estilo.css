@@ -1,0 +1,13 @@
+body {
+	background-color:transparent ;
+	color:black;
+}
+#barra a{
+	text-decoration: underline;
+	color: green;
+}
+#contenido a:hover{
+	text-decoration: underline;
+	color: blanchedalmond;
+
+}
